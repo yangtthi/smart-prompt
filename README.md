@@ -1,4 +1,4 @@
-# Blaze Smart Prompt
+# Smart Prompt
 
 智能 Prompt 管理工具 - 让你轻松管理和优化 AI 提示词。
 
