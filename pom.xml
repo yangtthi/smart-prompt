@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.blaze</groupId>
-    <artifactId>blaze-smart-prompt</artifactId>
+    <groupId>com.smartprompt</groupId>
+    <artifactId>smart-prompt</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Blaze Smart Prompt</name>
+    <name>Smart Prompt</name>
     <description>智能 Prompt 管理工具</description>
 
     <parent>

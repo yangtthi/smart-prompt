@@ -1,9 +1,9 @@
 server:
-  port: 8081
+  port: 8080
 
 spring:
   application:
-    name: blaze-smart-prompt
+    name: smart-prompt
   servlet:
     multipart:
       max-file-size: 10MB
