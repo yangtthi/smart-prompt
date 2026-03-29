@@ -1,0 +1,19 @@
+{
+  "id" : "890bf22d-ff7e-4588-ba4a-f0431ad7fcf0",
+  "name" : "新建新建新建",
+  "content" : "新建新建新建",
+  "description" : "新建新建新建",
+  "category" : "新建新建新建",
+  "variables" : [ ],
+  "outputFormat" : "text",
+  "createdAt" : "2026-03-28T15:58:40.617",
+  "updatedAt" : "2026-03-28T15:58:40.617",
+  "versions" : [ {
+    "id" : "60060b95-cb7d-4b98-92df-e8b88372fd64",
+    "version" : 1,
+    "content" : "新建新建新建",
+    "createdAt" : "2026-03-28T15:58:40.617",
+    "score" : null,
+    "testResult" : null
+  } ]
+}

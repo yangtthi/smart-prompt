@@ -1,0 +1,22 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: blaze-smart-prompt
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+app:
+  data-dir: ./data/prompts
+  ai:
+    api-url: https://api.deepseek.com/v1/chat/completions
+    api-key: 111
+    model: deepseek-chat
+
+logging:
+  level:
+    com.promptmgr: INFO
+    org.springframework.web: INFO

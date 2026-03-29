@@ -1,0 +1,26 @@
+{
+  "id" : "33b04582-46f8-4347-ab75-f7f72ed609c5",
+  "name" : "物品总结",
+  "content" : "跟你5个物品：{{item}} ，总结分类，输出每个物品的类目，输出示例：{{out}}",
+  "description" : "总结物品类目",
+  "category" : "总结",
+  "variables" : [ "item", "out" ],
+  "outputFormat" : "json",
+  "createdAt" : "2026-03-28T15:35:08.685",
+  "updatedAt" : "2026-03-28T15:37:36.219",
+  "versions" : [ {
+    "id" : "29421d9c-4f26-41db-81dc-1767cf71b49f",
+    "version" : 1,
+    "content" : "跟你5个物品：{{item}} ，总结分类，输出每个物品的类目",
+    "createdAt" : "2026-03-28T15:35:08.685",
+    "score" : null,
+    "testResult" : null
+  }, {
+    "id" : "26a350c7-122f-45d2-9bc5-aada9bb7a305",
+    "version" : 2,
+    "content" : "跟你5个物品：{{item}} ，总结分类，输出每个物品的类目，输出示例：{{out}}",
+    "createdAt" : "2026-03-28T15:37:36.219",
+    "score" : 4,
+    "testResult" : null
+  } ]
+}

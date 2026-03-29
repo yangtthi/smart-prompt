@@ -1,0 +1,19 @@
+{
+  "id" : "564f2b29-7ef4-4961-8f8f-7ba2a37478a3",
+  "name" : "如何生成一个爆款标题",
+  "content" : "根据内容{{content}},,生成朋友圈爆款文案",
+  "description" : "朋友圈文案神器",
+  "category" : "生活",
+  "variables" : [ "content" ],
+  "outputFormat" : "text",
+  "createdAt" : "2026-03-28T15:57:49.25",
+  "updatedAt" : "2026-03-28T15:57:49.251",
+  "versions" : [ {
+    "id" : "9c87b61b-523a-4d2e-ad61-8200bc3f1548",
+    "version" : 1,
+    "content" : "根据内容{{content}},,生成朋友圈爆款文案",
+    "createdAt" : "2026-03-28T15:57:49.251",
+    "score" : null,
+    "testResult" : null
+  } ]
+}

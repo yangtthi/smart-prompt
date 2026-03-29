@@ -1,0 +1,8 @@
+com\promptmgr\model\Prompt.class
+com\promptmgr\controller\HealthController.class
+com\promptmgr\PromptManagerApplication.class
+com\promptmgr\controller\PromptController.class
+com\promptmgr\repository\PromptRepository.class
+com\promptmgr\service\AiService.class
+com\promptmgr\model\VersionRecord.class
+com\promptmgr\service\PromptService.class
